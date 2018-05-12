@@ -1,0 +1,29 @@
+_repo: Palos-of-the-Dog-Star-Pack_35614
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Giesy, J. U. (John Ulrich)
+    alias: Giesy, John Ulrich
+    birthdate: 1877
+    deathdate: 1947
+    gutenberg_agent_id: '37782'
+    url: http://www.gutenberg.org/2009/agents/37782
+description: ''
+gutenberg_issued: '2011-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35614'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Life on other planets -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Astral projection -- Fiction'
+- !lcsh 'Science fiction'
+title: Palos of the Dog Star Pack
+url: http://www.gutenberg.org/ebooks/35614
